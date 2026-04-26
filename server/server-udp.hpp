@@ -3,6 +3,7 @@
 #include <functional>
 #include <cstring>
 #include <thread>
+#include <algorithm>
 #include <atomic>
 #include <condition_variable>
 
